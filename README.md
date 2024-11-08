@@ -6,8 +6,6 @@
 🚀 Aspiring Software Engineer | Cognitive Science & Computer Science Student  
 💼 Lead Developer @ Millstone Development Services | Infosys InStep Intern Alumnus
 
-Welcome to my GitHub profile! Here you'll find a variety of projects showcasing my expertise in mobile and web development, machine learning, and linguistic research. I'm passionate about crafting software solutions that blend technical excellence with user-centered design.
-
 ---
 
 ## 🧑‍💻 Technical Skills
