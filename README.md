@@ -1,4 +1,3 @@
-Here's an updated `README.md` with a similar skill grid layout to the one in the image:
 
 ---
 
